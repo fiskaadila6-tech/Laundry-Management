@@ -1,0 +1,7 @@
+{
+  "name": "inventaris",
+  "displayName": "inventaris",
+  "plugins": [
+    "expo-sqlite"
+  ]
+}
